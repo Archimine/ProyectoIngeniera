@@ -1,0 +1,31 @@
+.primario{
+    /*background: #03a9f4;*/
+    
+    background: #7f5281;
+}
+.primario-oscuro{
+    /*background: #007ac1;*/
+    background: #4f2361;
+}
+
+.secundario{
+    background: #212121;
+}
+
+.secundario-oscuro{
+    background: #000000
+}
+.general{
+    background: blue;
+}
+.main{
+    background: #bdbdbd;
+}
+.final{
+    color: white;
+}
+
+.blanco{
+    background: white;
+}
+
